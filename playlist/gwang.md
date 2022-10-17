@@ -14,6 +14,7 @@ Date | Name | 平台
 2022-07-XX | 三角战略  | Nintendo Switch
 2022-09-23 | 猎天使魔女1 | Nintendo Switch
 2022-10-09 | 弹丸论破1 | Nintendo Switch
+2022-10-16 | 猎天使魔女2 | Nintendo Switch
 ## comments
 
 ### 时间黑洞：
