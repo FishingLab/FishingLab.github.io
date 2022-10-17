@@ -11,8 +11,8 @@ Date | Name | 平台
 2022-06-17 | 大逆转裁判2 | Nintendo 3DS
 2022-06-20 | 忍者神龟：施莱德的复仇 | Nintendo Switch
 2022-06-20 | 赏金奇兵3 | Xbox Series S
-2022-07-XX | 三角战略 ｜ Nintendo Switch
-2022-09-23 | 猎天使魔女1 ｜ Nintendo Switch
+2022-07-XX | 三角战略  | Nintendo Switch
+2022-09-23 | 猎天使魔女1 | Nintendo Switch
 2022-10-09 | 弹丸论破1 | Nintendo Switch
 ## comments
 
