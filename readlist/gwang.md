@@ -10,7 +10,8 @@ Date | Name
 2022-05-14 | [置身事内](https://book.douban.com/subject/35546622/)
 2022-05-14 | [东方快车谋杀案](https://book.douban.com/subject/30466191/)
 2022-05-21| [中美相遇](https://book.douban.com/subject/35301514/)
-2022-06010 | [邓小平时代](https://book.douban.com/subject/20424526/)
+2022-06-10 | [邓小平时代](https://book.douban.com/subject/20424526/)
+2022-11-13 | [叫魂 1768年中国妖术大恐慌](https://book.douban.com/subject/10471333/)
 
 
 ## comments
