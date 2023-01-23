@@ -17,9 +17,15 @@ Date | Name | 平台
 2022-10-16 | 猎天使魔女2 | Nintendo Switch
 2022-10-28 | 生化危机3重制版 | Playstation 5
 2022-11-10 | 生化危机4（里昂篇） | Nintendo Switch
-## comments
+2023-01-21 | 怪物猎人-崛起（主线剧情）| Nintendo Switch
+2023-01-23 | 双人成行 | Playstation 5
 
-### 时间黑洞：
+## 计划
+- 生化危机1 （PS5）
+- 弹丸论破2 （NS）
+- P5R & P4G（NS）
+
+### 其他：
 - 集合啦 动物森友会
 - 文明6
 - 战锤3：全面战争
