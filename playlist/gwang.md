@@ -19,6 +19,7 @@ Date | Name | 平台
 2022-11-10 | 生化危机4（里昂篇） | Nintendo Switch
 2023-01-21 | 怪物猎人-崛起（主线剧情）| Nintendo Switch
 2023-01-23 | 双人成行 | Playstation 5
+2023-01-27 | 审判之眼 死神的遗言 | Playstation 5
 
 ## 计划
 - 生化危机1 （PS5）
