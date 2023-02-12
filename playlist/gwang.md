@@ -21,6 +21,7 @@ Date | Name | 平台
 2023-01-23 | 双人成行 | Playstation 5
 2023-01-27 | 审判之眼 死神的遗言 | Playstation 5
 2023-02-01 | 贝优妮塔3 | Nintendo Switch
+2023-02-12 | 弹丸论破2 | Nintendo Switch
 
 ## 计划
 - 生化危机1 （PS5）
