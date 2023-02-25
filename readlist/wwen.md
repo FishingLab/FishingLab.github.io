@@ -4,7 +4,11 @@
 
 Date | Name
 --- | ---
+2021-03-27 | 世纪三部曲
 2021-05-19 | 邓小平时代
+2021-10-12 | 江城
+2022-05-20 | My Brain is Open: The Mathematical Journeys of Paul Erdos
+2023-02-24 | 文学体验三十讲
 
 ## comments
 
