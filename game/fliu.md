@@ -1,4 +1,4 @@
-## playlist
+## Game
 
 > Edited on: {docsify-updated}
 > 未特殊标注的游戏均来自 steam 平台。
