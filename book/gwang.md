@@ -13,6 +13,7 @@ Date | Name
 2022-06-10 | [邓小平时代](https://book.douban.com/subject/20424526/)
 2022-11-13 | [叫魂 1768年中国妖术大恐慌](https://book.douban.com/subject/10471333/)
 2023-01-10 | [亲密关系](https://m.douban.com/book/subject/26585065/)
+2023-03-01 | [人类简史](https://book.douban.com/subject/25985021/)
 
 ## comments
 
