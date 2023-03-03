@@ -23,9 +23,9 @@ Date | Name | 平台
 2023-02-01 | 贝优妮塔3 | Nintendo Switch
 2023-02-12 | 弹丸论破2 | Nintendo Switch
 2023-02-25 | 艾迪芬奇的记忆 | Playstation 5
+2023-03-02 | 生化危机1（HD） | Playstation 5
 
 ## 攻略中
-- 生化危机1 （PS5）
 - P5R & P4G（NS）
 
 ## 评论
