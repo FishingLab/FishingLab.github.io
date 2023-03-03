@@ -1,4 +1,4 @@
-## playlist
+## Game
 
 > Video games are meant to be just one thing: fun. Fun for everyone.
 
