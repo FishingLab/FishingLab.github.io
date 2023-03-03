@@ -1,6 +1,6 @@
-# FishingLab
+# FishingHour
 
-> Let's fishing together.
+> It's our "fishing" hour.
 
 
-[GitHub](https://github.com/FishingLab)
+[GitHub](https://github.com/FishingLab/FishingHour)
