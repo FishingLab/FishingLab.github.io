@@ -1,4 +1,4 @@
-## playlist
+## Game
 
 > Edited on: {docsify-updated}
 
