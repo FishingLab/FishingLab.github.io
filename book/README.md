@@ -1,6 +1,6 @@
 ## Book
 
-> 阅读是当代的幸运符。
+> Read more, live more.
 
 - [fliu](book/fliu.md)
 - [gwang](book/gwang.md)
