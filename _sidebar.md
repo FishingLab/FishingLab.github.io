@@ -1,2 +1,2 @@
-- [readlist](readlist/)
-- [playlist](playlist/)
+- [Book](book/)
+- [Game](game/)
