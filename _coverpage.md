@@ -7,4 +7,4 @@
 
 <!-- background image -->
 
-![](asstes//bg.jpg)
+![](asstes/bg.jpg)
