@@ -16,7 +16,7 @@ Date | Name | 平台
 2022-10-09 | 弹丸论破1 | Nintendo Switch
 2022-10-16 | 贝优妮塔2 | Nintendo Switch
 2022-10-28 | 生化危机3重制版 | Playstation 5
-2022-11-10 | 生化危机4（里昂篇） | Nintendo Switch
+2022-11-10 | 生化危机4（2005 里昂篇） | Nintendo Switch
 2023-01-21 | 怪物猎人-崛起（主线剧情）| Nintendo Switch
 2023-01-23 | 双人成行 | Playstation 5
 2023-01-27 | 审判之眼 死神的遗言* | Playstation 5
@@ -27,6 +27,7 @@ Date | Name | 平台
 2023-03-31 | 冰汽时代* （主线）| Xbox Series S 
 2023-04-30 | 三国志14（群雄割据) | Playstation 5
 2023-05-06 | 塞尔达传说：旷野之息（dlc 英杰的诗篇）| Nintendo Switch
+2023-05-18 | 生化危机4 (2005 Ada篇)| Nintendo Switch
 
 ## 备注
 - 星标代表会免
