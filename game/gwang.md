@@ -28,6 +28,7 @@ Date | Name | 平台
 2023-04-30 | 三国志14（群雄割据) | Playstation 5
 2023-05-06 | 塞尔达传说：旷野之息（dlc 英杰的诗篇）| Nintendo Switch
 2023-05-18 | 生化危机4 (2005 Ada篇)| Nintendo Switch
+2023-05-18 | 审判之逝：湮灭的记忆（八神主线）|Playstation 5
 
 ## 备注
 - 星标代表会免
