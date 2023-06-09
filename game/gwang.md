@@ -30,7 +30,8 @@ Date | Name | 平台
 2023-05-18 | 生化危机4 (2005 Ada篇)| Nintendo Switch
 2023-05-18 | 审判之逝：湮灭的记忆（八神主线）|Playstation 5
 
-[Notion 数据库](https://www.notion.so/b874bf39d6fb4e91a32eb4274d9b5033?v=03c1456c23bf47bb9563bcae40fd8c06&pvs=4)
+[Notion 数据库](https://mango-bandicoot-89e.notion.site/b874bf39d6fb4e91a32eb4274d9b5033?v=03c1456c23bf47bb9563bcae40fd8c06&pvs=4)
+
 ## 备注
 - 星标代表会免
 
