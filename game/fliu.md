@@ -3,7 +3,7 @@
 > Edited on: {docsify-updated}
 > 未特殊标注的游戏均来自 steam 平台。
 
-<a href="#2016-2017"> 2016-2017 </a> | <a href="#2018"> 2018 </a> | <a href="#2019"> 2019 </a> | <a href="#2020"> 2020 </a> | <a href="#2021"> 2021 </a> | <a href="#2022"> 2022 </a> | <a href="#2023"> 2023 </a>
+<a href="#/game/fliu?id=_2016-2017"> 2016-2017 </a> | <a href="#/game/fliu?id=_2018"> 2018 </a> | <a href="#/game/fliu?id=_2019"> 2019 </a> | <a href="#/game/fliu?id=_2020"> 2020 </a> | <a href="#/game/fliu?id=_2021"> 2021 </a> | <a href="#/game/fliu?id=_2022"> 2022 </a> | <a href="#/game/fliu?id=_2023"> 2023 </a>
 
 ### 2016-2017
 
