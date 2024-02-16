@@ -10,7 +10,8 @@ Date | Name | Note
 2023-03 | [如首无作祟之物](https://book.douban.com/subject/35406149/) | 民俗配上本格推理，拿起来就放不下。
 2023-08 | [罗杰疑案](https://book.douban.com/subject/34985248/) | 叙述性诡计的开山之作，只是现在这种套路已经被用烂了。
 2023-08 | [数学简史](https://book.douban.com/subject/27170478/) | 无聊时翻一翻也挺好。
-2023-12 | [扪虱谈鬼录](https://book.douban.com/subject/27043530/) | 感受到栾保群先生对文革深深的怨念
+2023-12 | [扪虱谈鬼录](https://book.douban.com/subject/27043530/) | 感受到栾保群先生对文革深深的怨念。
+2024-01 | [说魂儿](https://book.douban.com/subject/27043532/) | 相比扪虱谈鬼录要更短，前面几章讲魂与鬼的区别讲得还不错。
 
 ## 在读中
 
