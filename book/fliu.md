@@ -12,6 +12,7 @@ Date | Name | Note
 2023-08 | [数学简史](https://book.douban.com/subject/27170478/) | 无聊时翻一翻也挺好。
 2023-12 | [扪虱谈鬼录](https://book.douban.com/subject/27043530/) | 感受到栾保群先生对文革深深的怨念。
 2024-01 | [说魂儿](https://book.douban.com/subject/27043532/) | 相比扪虱谈鬼录要更短，前面几章讲魂与鬼的区别讲得还不错。
+2024-05 | [围城](https://book.douban.com/subject/27070488/) | 对于钱锺书的文字，我只能用“熨帖”这个词来形容。
 
 ## 在读中
 
