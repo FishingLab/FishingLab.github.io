@@ -13,12 +13,15 @@ Date | Name | Note
 2023-12 | [扪虱谈鬼录](https://book.douban.com/subject/27043530/) | 感受到栾保群先生对文革深深的怨念。
 2024-01 | [说魂儿](https://book.douban.com/subject/27043532/) | 相比扪虱谈鬼录要更短，前面几章讲魂与鬼的区别讲得还不错。
 2024-05 | [围城](https://book.douban.com/subject/27070488/) | 对于钱锺书的文字，我只能用“熨帖”这个词来形容。
+2024-05 | [迷宫饭](https://book.douban.com/series/56013) | 荒诞，有趣，很好的结局。
+2024-06 | [筚路维艰](https://book.douban.com/subject/26171466/) | 如何客观地来评价一段历史，这本书给了很好的答案。
+2024-06 | [七龍珠外傳 轉生成為飲茶](https://book.douban.com/subject/30184970/) | 看到饺子和雅木茶合体的那一段，直接笑喷了。
 
 ## 在读中
 
 书名 | 进度
 --- | ---
 [打开](https://book.douban.com/subject/30441530/) | 7/10，因为这本书去看了纯粹理性批判，发现完全看不懂
-[火凤燎原](https://book.douban.com/series/13190) | 第 74 卷，刘备取西川
+[火凤燎原](https://book.douban.com/series/13190) | 第 76 卷，老八的身份快要揭开了！！！
 [赌博堕天录](https://book.douban.com/series/34762) | 第 455 话，24 亿脱出篇
-[迷宫饭](https://book.douban.com/series/56013) | 第 12 卷
+[自己送上門的鴨子有毒: 加茂教授的人性經濟學課程](https://book.douban.com/subject/36291470/) | 第一卷，假装自己在学习经济学
