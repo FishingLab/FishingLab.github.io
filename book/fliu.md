@@ -16,12 +16,13 @@ Date | Name | Note
 2024-05 | [迷宫饭](https://book.douban.com/series/56013) | 荒诞，有趣，很好的结局。
 2024-06 | [筚路维艰](https://book.douban.com/subject/26171466/) | 如何客观地来评价一段历史，这本书给了很好的答案。
 2024-06 | [七龍珠外傳 轉生成為飲茶](https://book.douban.com/subject/30184970/) | 看到饺子和雅木茶合体的那一段，直接笑喷了。
+2024-07 | [魏晋南北朝史略](https://book.douban.com/subject/27078666/) | 一页风云散，掩卷青衫湿。
 
 ## 在读中
 
 书名 | 进度
 --- | ---
 [打开](https://book.douban.com/subject/30441530/) | 7/10，因为这本书去看了纯粹理性批判，发现完全看不懂
-[火凤燎原](https://book.douban.com/series/13190) | 第 76 卷，老八的身份快要揭开了！！！
+[火凤燎原](https://book.douban.com/series/13190) | 第 77 卷，真假司马懿？！
 [赌博堕天录](https://book.douban.com/series/34762) | 第 455 话，24 亿脱出篇
 [自己送上門的鴨子有毒: 加茂教授的人性經濟學課程](https://book.douban.com/subject/36291470/) | 第一卷，假装自己在学习经济学
