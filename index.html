@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cn-fontsource-lxgw-wen-kai-gb-screen@1.0.6/font.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-icons-font@v13/font/simple-icons.min.css" type="text/css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fontawesome-free-6.2.1@6.2.1/css/all.min.css"/>
     <script
       defer
       src="https://cdn.jsdelivr.net/npm/katex@0.13.11/dist/katex.min.js"
@@ -15,8 +17,20 @@
       crossorigin="anonymous"
     ></script>
     <style>
+      /* Change font style */
       body {
         font-family: "LXGW WenKai GB Screen", sans-serif;
+      }
+      /* Rewrite style for icon */
+      a:has(.icon) {
+        text-decoration: none;
+      }
+      .icon {
+        color: black;
+        font-weight: initial;
+/*        height: 1em;*/
+        font-size: 1.2em;
+        vertical-align: center;
       }
       /* Disable mask */
       .mask {
@@ -44,5 +58,7 @@
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <!-- Detect icon abbr & Replace with svg -->
+    <script src="src/docsify-icon.min.js"></script>
   </body>
 </html>
