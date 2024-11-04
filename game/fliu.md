@@ -108,13 +108,13 @@ Date | Name | Comment
 2021/06/27 | 烟火 [:icon si si-steam:](https://store.steampowered.com/app/1288310/) | 8/10，👍 恐怖氛围做得很好；👎 流程有点短，故事也不是很令人深刻
 2021/07/26 | 密特罗德：萨姆斯归来 [:icon si si-nintendo3ds:](https://www.mobygames.com/game/94240/) | 8/10，👍 第一次尝试密特罗德，地图设计很不错；👎 手有点疼
 2021/09/05 | 人中之龙 5 实现梦想者 [:icon si si-steam:](https://store.steampowered.com/app/1105510/) | 9/10，👍 多人物，多主线，多玩法，这就是如龙；👎 唯一让我感到头疼的遥的章节，因为用的NS手柄，键位刚好跟提示的位置相反（比如都是A,屏幕显示的是按下边，实际我要按右边），但这是我的问题
-2021/09/06 | 无双大蛇 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/1181/) | 7/10，👍 神器的引入让一切都变得爽快；👎 神器的引入让一切都变得乏味
+2021/09/06 | 无双大蛇 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/1181/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1JF411B7vF/) | 7/10，👍 神器的引入让一切都变得爽快；👎 神器的引入让一切都变得乏味
 2021/10/04 | 大逆转裁判 [:icon si si-nintendo3ds:](https://www.mobygames.com/game/114047/) | 8/10，👍 我觉得最有意思的角色是福尔摩斯；👎 流程很长
 2021/10/23 | Will: 美好世界 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/1369/) | 7/10，👍 通过改变段落顺序来改变故事走向的设计很新颖；👎 故事太扯
-2021/10/25 | 英雄不再 2 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/4832/) | 10/10，👍 双手剑，yes；👎 我真的以为它设计了50个Boss
-2021/11/06 | 凯瑟琳 [:icon si si-playstation3:](https://psnine.com/psngame/906) | 9/10，👍 推箱子很有趣，也很有技巧；👎 不想开二周目，但又想知道其他结局
+2021/10/25 | 英雄不再 2 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/4832/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Mq4y1m73q/) | 10/10，👍 双手剑，yes；👎 我真的以为它设计了50个Boss
+2021/11/06 | 凯瑟琳 [:icon si si-playstation3:](https://psnine.com/psngame/906) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1vb4y1v76F/) | 9/10，👍 推箱子很有趣，也很有技巧；👎 不想开二周目，但又想知道其他结局
 2021/12/12 | 古墓丽影 [:icon si si-playstation3:](https://psnine.com/psngame/2569) | 9/10，👍 节奏紧凑，罗拉的形象刻画得很好；👎 支线古墓设计得一般
-2021/12/19 | 密特罗德：生存恐惧 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6093/) | 10/10，👍 恐惧而兴奋；👎 太容易上头，以至于没有决心开第二遍
+2021/12/19 | 密特罗德：生存恐惧 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6093/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Ku411S7uT/) | 10/10，👍 恐惧而兴奋；👎 太容易上头，以至于没有决心开第二遍
 
 ### 2022
 
@@ -123,24 +123,24 @@ Date | Name | Comment
 2022/01/11 | 神秘海域：德雷克船长的宝藏 [:icon si si-playstation3:](https://psnine.com/psngame/449) | 7/10，👍 在那个时代，还算不错的尝试；👎 屎一样的驾驶手感
 2022/02/02 | 人中之龙 6：生命诗篇 [:icon si si-steam:](https://store.steampowered.com/app/1388590/) | 7/10，👍 画面提高了一个档次，很多熟悉的面孔，新场景也给人一种新鲜感；👎 我不能接受泽村遥生孩子的事实，更不能接受这个孩子的父亲如此不负责任
 2022/02/17 | 影子工厂 [:icon si si-steam:](https://store.steampowered.com/app/1182620/) | 7/10，👍 开头很吸引人；👎 我想要续作，不是前传
-2022/02/19 | 英雄不再 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/4833/) | 10/10，👍 后现代主义游戏；👎 可能不会有续作了
+2022/02/19 | 英雄不再 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/4833/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1U34y167GT/) | 10/10，👍 后现代主义游戏；👎 可能不会有续作了
 2022/03/03 | 神秘海域 2 [:icon si si-playstation3:](https://psnine.com/psngame/462) | 10/10，👍 我现在还忘不了在火车上穿行的那一幕；👎 射击手感一般
 2022/03/06 | 异度神剑 1 DLC：相连的未来 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/3785/) | 8/10，👍 修尔克可以跟梅莉亚独处了；👎 菲奥伦点了个踩
 2022/03/27 | 大逆转裁判 2 [:icon si si-nintendo3ds:](https://www.mobygames.com/game/114048/) | 8/10，👍 福尔摩斯的小剧场是我最喜欢的环节；👎 终于打完了
-2022/04/04 | 枪弹辩驳 希望学园与绝望高中生 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6685/) | 8/10， 👍 故事很吸引人；👎 玩最后一关时出现 bug 被强制退出，又得重新打了一遍
-2022/04/18 | 超级枪弹辩驳 2 再会了绝望学园 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6686/) | 9/10， 👍 其实我还是挺喜欢黑白美的，游戏最后的反转不错；👎 不喜欢音游部分
-2022/05/02 | 新枪弹辩驳 V3 大家的自相残杀新学期 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6687/) | 1/10，👍 诡计很不错，给 9 分；👎 下次别做了，扣 8 分
+2022/04/04 | 枪弹辩驳 希望学园与绝望高中生 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6685/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1hq4y1Y7CQ/) | 8/10， 👍 故事很吸引人；👎 玩最后一关时出现 bug 被强制退出，又得重新打了一遍
+2022/04/18 | 超级枪弹辩驳 2 再会了绝望学园 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6686/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV18T4y1v7Ge/) | 9/10， 👍 其实我还是挺喜欢黑白美的，游戏最后的反转不错；👎 不喜欢音游部分
+2022/05/02 | 新枪弹辩驳 V3 大家的自相残杀新学期 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6687/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1644y1G7tg/) | 1/10，👍 诡计很不错，给 9 分；👎 下次别做了，扣 8 分
 2022/05/23 | 审判之眼：死神的遗言 [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/12924) | 8/10，👍 动作设计不错；👎 不喜欢跟踪，不喜欢飞无人机，还有我已经忘了它讲的是什么故事
-2022/07/05 | 暗影火炬城 [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/24646) | 7/10，👍 动作设计非常优秀，Boss 设计也很不错；👎 作为一款银河恶魔城游戏，地图设计刚刚及格，还有那个解谜是谁做的
+2022/07/05 | 暗影火炬城 [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/24646) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1S3411u73E/) | 7/10，👍 动作设计非常优秀，Boss 设计也很不错；👎 作为一款银河恶魔城游戏，地图设计刚刚及格，还有那个解谜是谁做的
 2022/07/25 | 428：被封锁的涩谷 - 真结局 [:icon si si-playstationvita:](https://www.mobygames.com/game/53717/) | 9/10，👍 身份诡计的设计很巧妙，时间轴的设计很新颖；👎 容易上头
-2022/09/17 | 传世不朽 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Immortality/) | 9/10，👍 视频类游戏的“互动”原来还可以这样设计；👎 全收集太难，对强迫症患者不友好
-2022/09/18 | 王国之心 3 [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/17461) | 8/10，👍 无论剧情还是玩法，看似简单但实际很有深度的 JRPG，是的我认为这是套着动作游戏外皮的 JRPG；👎 对新人不友好，剧情没看懂，尤其最后一章一下子出来的一群人都不知道是谁（应该是前作的角色）
-2022/10/06 | 异度神剑 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/7740/) | 8/10，👍 丰富的战斗玩法，超大的地图；👎 播片太频繁，最后一章建议重做
+2022/09/17 | 传世不朽 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Immortality/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1YD4y1q7sW/) | 9/10，👍 视频类游戏的“互动”原来还可以这样设计；👎 全收集太难，对强迫症患者不友好
+2022/09/18 | 王国之心 3 [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/17461) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1F94y1X7Wu/) | 8/10，👍 无论剧情还是玩法，看似简单但实际很有深度的 JRPG，是的我认为这是套着动作游戏外皮的 JRPG；👎 对新人不友好，剧情没看懂，尤其最后一章一下子出来的一群人都不知道是谁（应该是前作的角色）
+2022/10/06 | 异度神剑 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/7740/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV16T411w7GW/) | 8/10，👍 丰富的战斗玩法，超大的地图；👎 播片太频繁，最后一章建议重做
 2022/10/12 | 海贼无双 4 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/One-Piece-Pirate-Warriors-4/) | 6/10，👍 爽到飞起；👎 割草游戏通病，玩法重复且无聊
 2022/10/19 | 四海兄弟：最终版 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Mafia-Definitive-Edition/) | 7/10，👍 剧情好；👎 CG 画面与游戏画面严重脱节
 2022/11/15 | 命运石之门 0 - 全成就 [:icon si si-playstation3:](https://psnine.com/psngame/9420) | 9/10，👍 虽然没有助手，但这部有让我最能感同身受的角色：真帆；👎 世界大战有点太草率了
-2022/11/27 | 蓓优妮塔 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/8179/) | 9/10，👍 多种武器与魔兽的组合，每一章都充满新鲜感；👎 不喜欢抓猫抓鸟的部分，玩得有点崩溃
-2022/12/06 | 热血无赖：终极版 - 主线 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Sleeping-Dogs-Definitive-Edition/) | 8/10，👍 动作设计很棒，地图场景很还原，致敬李小龙龙争虎斗的支线很用心；👎 剧情虎头蛇尾，可能是为了开放世界做了妥协
+2022/11/27 | 蓓优妮塔 3 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/8179/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1DW4y1j7To/) | 9/10，👍 多种武器与魔兽的组合，每一章都充满新鲜感；👎 不喜欢抓猫抓鸟的部分，玩得有点崩溃
+2022/12/06 | 热血无赖：终极版 - 主线 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Sleeping-Dogs-Definitive-Edition/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1VG4y1577t/) | 8/10，👍 动作设计很棒，地图场景很还原，致敬李小龙龙争虎斗的支线很用心；👎 剧情虎头蛇尾，可能是为了开放世界做了妥协
 2022/12/18 | AI梦境档案：涅槃肇始 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/7867/) | 9/10，👍 叙事诡计还能这么玩；👎 水下和RGB解谜这两个梦境的设计不太喜欢
 
 ### 2023
@@ -150,20 +150,20 @@ Date | Name | Comment
 2023/02/17 | 泰坦天降 2 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Titanfall-2/) | 8/10，👍 优秀的射击手感，令人兴奋的巨型机器人战斗，叹为观止的时空转换设计；👎 游戏指引太过简单和直白，缺少探索感
 2023/03/17 | 密特罗德 究极 复刻版 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/9416/) | 8/10，👍 第一人称配上银河恶魔城，没想到可以做得这么好；👎 从采矿厂开始难度大幅提高，后期重复跑图，后期 Boss 战冗长。除了这三个缺点，我可以给前面流程打满分。
 2023/04/14 | 分享同乐！瓦力欧制造 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6092/) 故事模式 | 7/10，👍 保持该系列一贯的轻松恶搞风格；👎 操作不如系列前作有意思，目前还没有试过双人游玩，但感觉这个游戏对刚接触的玩家有一定门槛，不太符合前作充满直觉的游戏操作理念
-2023/04/14 | 生化危机 4 重制版 [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/31778) | 10/10，👍 简直就是个新游戏！👎 有一两个地方设计得挺坑，就游戏整体素质而言，我这也是鸡蛋里挑骨头
+2023/04/14 | 生化危机 4 重制版 [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/31778) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1xh411G72g/) | 10/10，👍 简直就是个新游戏！👎 有一两个地方设计得挺坑，就游戏整体素质而言，我这也是鸡蛋里挑骨头
 2023/05/06 | 春逝百年抄 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/7786/) | 8/10，👍 演员很漂亮，最后的反转还不错；👎 推理过程很冗长
 2023/05/27 | 幽灵诡计 [:icon si si-nintendo3ds:](https://www.mobygames.com/game/50004/) | 9/10，👍巧舟的剧本，简直是滴水不漏。
-2023/06/14 | 异度神剑 3 DLC 崭新的未来 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/7740/) | 8/10，👍 补全了异度神剑三部曲之间的联系，内容充实，献给前两作粉丝的礼物；👎 部分Boss战打起来脑壳疼，又硬又长。
-2023/07/08 | 蓓优妮塔起源：瑟雷莎与迷失的恶魔 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/9098/) | 9/10，👍 远超期待，地图设计好，谜题与战斗的难度都很轻量，玩起来很舒服；👎 部分Boss战可以设计得再长一点。
-2023/07/16 | 幽灵诡计 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/10239/) | 9/10，👍作为一个老游戏复刻，操作、画面都很舒服。
+2023/06/14 | 异度神剑 3 DLC 崭新的未来 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/7740/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1QX4y1B7jA/) | 8/10，👍 补全了异度神剑三部曲之间的联系，内容充实，献给前两作粉丝的礼物；👎 部分Boss战打起来脑壳疼，又硬又长。
+2023/07/08 | 蓓优妮塔起源：瑟雷莎与迷失的恶魔 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/9098/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV18v4y1L7Sf/) | 9/10，👍 远超期待，地图设计好，谜题与战斗的难度都很轻量，玩起来很舒服；👎 部分Boss战可以设计得再长一点。
+2023/07/16 | 幽灵诡计 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/10239/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1qk4y1H75J/) | 9/10，👍作为一个老游戏复刻，操作、画面都很舒服。
 2023/07/23 | 暗影火炬城 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/FIST-Forged-in-Shadow-Torch/) | 7/10，第二次玩了，解密部分还是不太喜欢，好在整体上没有太多令人难受的地方，总结下来就是及格的游戏。
-2023/09/16 | 人中之龙 7 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/) | 9/10，👍光与暗的去向，通关后才能理解标题的含义。有人说这游戏需要刷级，但我整体游玩下来并没有感觉到有太多为难人的地方，可能是因为我带了两个回血的队友吧。
-2023/09/26 | GRIS [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/GRIS/) | 9/10，因为进了 XGP 所以又打完了一遍，无论干净的画面还是偏向直觉的玩法，都给了我太多的惊喜。
-2023/10/15 | 生化危机 4 重制版 DLC [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/31778) | 9/10，👍玩过主线一定要玩这个DLC，这样才是完整的生化危机 4。
-2023/10/23 | Cocoon [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Cocoon/) | 9/10，👍好久没有玩过这么畅快的解谜游戏，神奇的体验让我感觉自己就是在解决[汉诺塔](https://zh.wikipedia.org/zh-hans/%E6%B1%89%E8%AF%BA%E5%A1%94)难题。
-2023/11/24 | 三伏 [:icon si si-steam:](https://store.steampowered.com/app/1880330/) | 7/10，👍有很多上世纪八九十年代的元素，画面构图很不错；👎故事叙述得非常凌乱，倒叙插叙混着用，加之不明不白的迷幻场景，把一个原本简单的故事搞得扑朔迷离。
+2023/09/16 | 人中之龙 7 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Yakuza-Like-a-Dragon/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1fP411t7Ug/) | 9/10，👍光与暗的去向，通关后才能理解标题的含义。有人说这游戏需要刷级，但我整体游玩下来并没有感觉到有太多为难人的地方，可能是因为我带了两个回血的队友吧。
+2023/09/26 | GRIS [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/GRIS/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1fm4y1G7RL/) | 9/10，因为进了 XGP 所以又打完了一遍，无论干净的画面还是偏向直觉的玩法，都给了我太多的惊喜。
+2023/10/15 | 生化危机 4 重制版 DLC [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/31778) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1r8411y7zQ/) | 9/10，👍玩过主线一定要玩这个DLC，这样才是完整的生化危机 4。
+2023/10/23 | Cocoon [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Cocoon/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1EC4y137RK/) | 9/10，👍好久没有玩过这么畅快的解谜游戏，神奇的体验让我感觉自己就是在解决[汉诺塔](https://zh.wikipedia.org/zh-hans/%E6%B1%89%E8%AF%BA%E5%A1%94)难题。
+2023/11/24 | 三伏 [:icon si si-steam:](https://store.steampowered.com/app/1880330/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1wu4y1V7EA/) | 7/10，👍有很多上世纪八九十年代的元素，画面构图很不错；👎故事叙述得非常凌乱，倒叙插叙混着用，加之不明不白的迷幻场景，把一个原本简单的故事搞得扑朔迷离。
 2023/11/26 | 七龙珠Z：卡卡罗特 [:icon si si-steam:](https://store.steampowered.com/app/851850/) | 6/10，👍过场CG完全1:1还原；👎稀烂的游戏性，有这功夫我为什么不去看漫画。
-2023/12/03 | 超级马力欧兄弟：惊奇 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/11026/) | 9/10，👍如梦如幻，联网体验非常好；👎还没有玩够就结束了。
+2023/12/03 | 超级马力欧兄弟：惊奇 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/11026/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1RB4y1d752/) | 9/10，👍如梦如幻，联网体验非常好；👎还没有玩够就结束了。
 
 ---
 
@@ -172,20 +172,20 @@ Date | Name | Comment
 Date | Name | Comment
 :-: | :-: | ---
 2024/01/29| 半衰期：爱莉克斯 [:icon si si-steam:](https://store.steampowered.com/app/546560/) | 10/10，👍无与伦比的体验。
-2024/01/31| 人中之龙：维新 极 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Like-a-Dragon-Ishin/) | 7/10，👍算是对坂本龙马、冲田总司这些人名有了初步的了解，故事结构也还可以；👎没有太多新意。
-2024/02/21| 人中之龙 7 外传 无名之龙 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Like-a-Dragon-Gaiden-The-Man-Who-Erased-His-Name/) | 8/10，👍画面不错，新加的特工风格也挺有意思，赤目情报网的支线设计还可以；👎有点短，看得出来是最终目的为了宣传人中之龙 8。
+2024/01/31| 人中之龙：维新 极 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Like-a-Dragon-Ishin/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1nw411M7UQ/) | 7/10，👍算是对坂本龙马、冲田总司这些人名有了初步的了解，故事结构也还可以；👎没有太多新意。
+2024/02/21| 人中之龙 7 外传 无名之龙 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Like-a-Dragon-Gaiden-The-Man-Who-Erased-His-Name/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1YH4y17773/) | 8/10，👍画面不错，新加的特工风格也挺有意思，赤目情报网的支线设计还可以；👎有点短，看得出来是最终目的为了宣传人中之龙 8。
 2024/03/24| FOCUS on YOU [:icon si si-steam:](https://store.steampowered.com/app/1032670/) :icon si si-meta:{c=blue} | 7/10，小品级 VR 游戏，算是满足一些虚拟的幻想吧。
-2024/03/30| 皮克敏 4 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/10393/) | 10/10，👍超出预期的玩法，超出预期的内容量，超出预期的有趣。
+2024/03/30| 皮克敏 4 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/10393/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1sS421A72G/) | 10/10，👍超出预期的玩法，超出预期的内容量，超出预期的有趣。
 2024/04/14| 喜丧 [:icon si si-steam:](https://store.steampowered.com/app/2182400/) | 7/10，支持国产游戏。
-2024/04/27| Mother 3 [:icon si si-wiiu:](https://www.mobygames.com/game/29870/) | 10/10，👍荒诞中暗藏一点黑暗，黑暗中又包含一丝温情。
-2024/05/05| 火影忍者终极风暴：羁绊 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/11235/) 原创剧情 | 7/10，哪怕是前四部作品打包都比这样弄有诚意得多，纯粹消费粉丝情怀。
-2024/06/02| 塞娜的传奇：地狱之刃 II [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Senuas-Saga-Hellblade-II/) | 8/10，👍画面很好看，整个玩下来就像看了一部电影。👎玩法上没有做太多改动，而且很明显为了镜头调度，整体动作系统做得很局限。
-2024/06/30| 纸片马力欧：折纸国王 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/4011/) | 8/10，👍对话太搞笑，虽然故事挺无厘头，但又能自圆其说。另外，我很喜欢Boss战。👎和小怪战斗时采用的轮盘战斗，不是很符合我的胃口。
-2024/07/07| Hi-Fi Rush [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/HiFi-Rush/) | 9/10，👍关卡设计、动作手感、头目战都无法挑剔。👎如果对音乐节奏无感，可能会玩得很痛苦。
-2024/07/17| 灵视异闻 FILE23 本所七大不可思议 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/9428/) | 9/10，👍将都市怪谈与推理悬疑结合，再加上一些Meta要素，这些都是我喜欢的点。👎结局是否太仓促了，让人感觉意犹未尽。
-2024/10/17 | 塞尔达传说：智慧的再现 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/12772/) | 9/10，👍复制能力是比较有创意的设定，解谜部分相比塞尔达系列其他作品略低一点，这也使得整体流程比较顺畅。👎复制的物品虽然多，但真正使用频率比较高的也就那几个。故事整体来说没有什么精彩的地方，略显套路化。
+2024/04/27| Mother 3 [:icon si si-wiiu:](https://www.mobygames.com/game/29870/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV14J4m1n7kZ/) | 10/10，👍荒诞中暗藏一点黑暗，黑暗中又包含一丝温情。
+2024/05/05| 火影忍者终极风暴：羁绊 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/11235/) 原创剧情 [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1uz421C7Ew/) | 7/10，哪怕是前四部作品打包都比这样弄有诚意得多，纯粹消费粉丝情怀。
+2024/06/02| 塞娜的传奇：地狱之刃 II [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Senuas-Saga-Hellblade-II/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV12t421N71s/) | 8/10，👍画面很好看，整个玩下来就像看了一部电影。👎玩法上没有做太多改动，而且很明显为了镜头调度，整体动作系统做得很局限。
+2024/06/30| 纸片马力欧：折纸国王 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/4011/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1qS411A7Et/) | 8/10，👍对话太搞笑，虽然故事挺无厘头，但又能自圆其说。另外，我很喜欢Boss战。👎和小怪战斗时采用的轮盘战斗，不是很符合我的胃口。
+2024/07/07| Hi-Fi Rush [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/HiFi-Rush/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1kN411A7rH/) | 9/10，👍关卡设计、动作手感、头目战都无法挑剔。👎如果对音乐节奏无感，可能会玩得很痛苦。
+2024/07/17| 灵视异闻 FILE23 本所七大不可思议 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/9428/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1VE4m1d7Tc) | 9/10，👍将都市怪谈与推理悬疑结合，再加上一些Meta要素，这些都是我喜欢的点。👎结局是否太仓促了，让人感觉意犹未尽。
+2024/10/17 | 塞尔达传说：智慧的再现 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/12772/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Z5xueyEZa) | 9/10，👍复制能力是比较有创意的设定，解谜部分相比塞尔达系列其他作品略低一点，这也使得整体流程比较顺畅。👎复制的物品虽然多，但真正使用频率比较高的也就那几个。故事整体来说没有什么精彩的地方，略显套路化。
 2024/10/21 | 去月球系列海滩特别篇 [:icon si si-steam:](https://store.steampowered.com/app/2159210/) | 9/10，👍这才是我期待多年的去月球续作。👎前期略显乏味，但这也是为了衬托后面的转折吧。
-2024/10/30 | 巴别塔圣歌 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Chants-of-Sennaar/) | 9/10，👍第一次有玩到以破译文字作为核心的解谜游戏，当能够理解陌生文字背后的含义时，成就感还是非常强的。👎最后玩到真结局，大约是破译倒数第二个门时遇到卡关，有点让人烦躁。
+2024/10/30 | 巴别塔圣歌 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Chants-of-Sennaar/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1BHSEYLEaS) | 9/10，👍第一次有玩到以破译文字作为核心的解谜游戏，当能够理解陌生文字背后的含义时，成就感还是非常强的。👎最后玩到真结局，大约是破译倒数第二个门时遇到卡关，有点让人烦躁。
 
 ---
 

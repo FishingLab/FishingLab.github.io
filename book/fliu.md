@@ -18,7 +18,7 @@ Date | Name | Note
 2024/06 | [七龍珠外傳 轉生成為飲茶](https://book.douban.com/subject/30184970/) | 看到饺子和雅木茶合体的那一段，直接笑喷了。
 2024/07 | [魏晋南北朝史略](https://book.douban.com/subject/27078666/) | 一页风云散，掩卷青衫湿。
 2024/08 | [头目战：超级马力欧兄弟3](https://book.douban.com/subject/30288732/) | 将个人经历和游戏历史结合的一本小书，“永不放弃，全力以赴”。
-2024-08 | [只是为了好玩](https://book.douban.com/subject/36303640/) | 生存、社交、娱乐。
+2024/08 | [只是为了好玩](https://book.douban.com/subject/36303640/) | 生存、社交、娱乐。
 
 ## 在读中
 
