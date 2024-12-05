@@ -186,7 +186,7 @@ Date | Name | Comment
 2024/10/17 | 塞尔达传说：智慧的再现 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/12772/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Z5xueyEZa) | 9/10，👍复制能力是比较有创意的设定，解谜部分相比塞尔达系列其他作品略低一点，这也使得整体流程比较顺畅。👎复制的物品虽然多，但真正使用频率比较高的也就那几个。故事整体来说没有什么精彩的地方，略显套路化。
 2024/10/21 | 去月球系列海滩特别篇 [:icon si si-steam:](https://store.steampowered.com/app/2159210/) | 9/10，👍这才是我期待多年的去月球续作。👎前期略显乏味，但这也是为了衬托后面的转折吧。
 2024/10/30 | 巴别塔圣歌 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Chants-of-Sennaar/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1BHSEYLEaS) | 9/10，👍第一次有玩到以破译文字作为核心的解谜游戏，当能够理解陌生文字背后的含义时，成就感还是非常强的。👎最后玩到真结局，大约是破译倒数第二个门时遇到卡关，有点让人烦躁。
-
+2024/11/17 | 人中之龙 极 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/13656) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1PkSqYCEjj) | 9/10，👍没有想到真有一天能够在Switch上玩到如龙。
 ---
 
 ## 开的坑
