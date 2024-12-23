@@ -1,6 +1,6 @@
-# Fishing Hour
+# Fishing Lab
 
-[GitHub](https://github.com/FishingLab/FishingHour)
+[GitHub](https://github.com/FishingLab)
 
 <!-- background image -->
 
