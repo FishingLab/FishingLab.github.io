@@ -6,7 +6,7 @@
 > |---|---|---|---|---|---|---|---|---|---|---|---|
 > |Steam|Steam Deck|NS|3DS|WiiU|PS2|PS3|PSV|PS4|PS5|Xbox|Meta Quest|
 
-<a href="#/game/fliu?id=_2016-2017"> 2016-2017 </a> | <a href="#/game/fliu?id=_2018"> 2018 </a> | <a href="#/game/fliu?id=_2019"> 2019 </a> | <a href="#/game/fliu?id=_2020"> 2020 </a> | <a href="#/game/fliu?id=_2021"> 2021 </a> | <a href="#/game/fliu?id=_2022"> 2022 </a> | <a href="#/game/fliu?id=_2023"> 2023 </a> | <a href="#/game/fliu?id=_2024"> 2024 </a>
+<a href="#/game/fliu?id=_2016-2017"> 2016-2017 </a> | <a href="#/game/fliu?id=_2018"> 2018 </a> | <a href="#/game/fliu?id=_2019"> 2019 </a> | <a href="#/game/fliu?id=_2020"> 2020 </a> | <a href="#/game/fliu?id=_2021"> 2021 </a> | <a href="#/game/fliu?id=_2022"> 2022 </a> | <a href="#/game/fliu?id=_2023"> 2023 </a> | <a href="#/game/fliu?id=_2024"> 2024 </a> | <a href="#/game/fliu?id=_2025"> 2025 </a>
 
 ### 2016-2017
 
@@ -187,6 +187,17 @@ Date | Name | Comment
 2024/10/21 | 去月球系列海滩特别篇 [:icon si si-steam:](https://store.steampowered.com/app/2159210/) | 9/10，👍这才是我期待多年的去月球续作。👎前期略显乏味，但这也是为了衬托后面的转折吧。
 2024/10/30 | 巴别塔圣歌 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Chants-of-Sennaar/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1BHSEYLEaS) | 9/10，👍第一次有玩到以破译文字作为核心的解谜游戏，当能够理解陌生文字背后的含义时，成就感还是非常强的。👎最后玩到真结局，大约是破译倒数第二个门时遇到卡关，有点让人烦躁。
 2024/11/17 | 人中之龙 极 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/13656) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1PkSqYCEjj) | 9/10，👍没有想到真有一天能够在Switch上玩到如龙。
+
+---
+
+### 2025
+
+Date | Name | Comment
+:-: | :-: | ---
+2025/02/14 | 真·三国无双：起源 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Dynasty-Warriors-Origins) | 9/10，👍无论画面、战斗手感还是战场氛围的刻画，这作无疑是系列的巅峰。👎无双人模式，故事到赤壁就结束，部分战场重复利用，武器太少。不过这些缺点都是可以通过后期增加内容来弥补的。
+2025/03/13 | 完美的一天 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/843810) | 7/10，👍对于80后乃至90后，可能会想起小时候的回忆。设计了真假结局，有[`Metagame`](https://zh.moegirl.org.cn/zh-hans/Metagame)元素。当朴树的「New Boy」响起的时候，不禁让我热泪盈眶。👎玩起来很折磨，不如直接看别人总结的视频。
+2025/04/06 | 夺宝奇兵：古老之圈 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Indiana-Jones-and-the-Great-Circle/) | 8/10，👍第一人称+潜行玩法有没有搞头，当然有搞头！👎战斗模式单一，第一人称使得视野受限。
+
 ---
 
 ## 开的坑
