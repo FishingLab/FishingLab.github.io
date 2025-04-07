@@ -8,6 +8,14 @@
 
 <a href="#/game/fliu?id=_2016-2017"> 2016-2017 </a> | <a href="#/game/fliu?id=_2018"> 2018 </a> | <a href="#/game/fliu?id=_2019"> 2019 </a> | <a href="#/game/fliu?id=_2020"> 2020 </a> | <a href="#/game/fliu?id=_2021"> 2021 </a> | <a href="#/game/fliu?id=_2022"> 2022 </a> | <a href="#/game/fliu?id=_2023"> 2023 </a> | <a href="#/game/fliu?id=_2024"> 2024 </a> | <a href="#/game/fliu?id=_2025"> 2025 </a>
 
+<!-- 图表容器布局 -->
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin: 20px 0;"> 
+  <!-- 年度游戏通关数量图表容器 -->
+  <div id="yearly-chart-container" style="flex: 1; min-width: 300px;"></div>
+  <!-- 平台分布饼图容器 -->
+  <div id="platform-chart-container" style="flex: 1; min-width: 300px;"></div>
+</div>
+
 ### 2016-2017
 
 Date | Name | Comment
