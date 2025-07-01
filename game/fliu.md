@@ -205,6 +205,8 @@ Date | Name | Comment
 2025/02/14 | 真·三国无双：起源 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Dynasty-Warriors-Origins) | 9/10，👍无论画面、战斗手感还是战场氛围的刻画，这作无疑是系列的巅峰。👎无双人模式，故事到赤壁就结束，部分战场重复利用，武器太少。不过这些缺点都是可以通过后期增加内容来弥补的。
 2025/03/13 | 完美的一天 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/843810) | 7/10，👍对于80后乃至90后，可能会想起小时候的回忆。设计了真假结局，有[`Metagame`](https://zh.moegirl.org.cn/zh-hans/Metagame)元素。当朴树的「New Boy」响起的时候，不禁让我热泪盈眶。👎玩起来很折磨，不如直接看别人总结的视频。
 2025/04/06 | 夺宝奇兵：古老之圈 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Indiana-Jones-and-the-Great-Circle/) | 8/10，👍第一人称+潜行玩法有没有搞头，当然有搞头！👎战斗模式单一，第一人称使得视野受限。
+2025/04/15 | 刺客信条 3 [:icon si si-steam:](https://store.steampowered.com/app/208480) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1x6oNYgEgi) | 7/10，👍再次重玩刺客信条3，还是会被前几章的反转给震撼到起鸡皮疙瘩。👎记忆中的故事还是很美好，但实际玩的时候发现还是太碎片了。
+2025/06/22 | 情感反诈模拟器（a.k.a. 捞女游戏） 达成**「真爱至上」**结局 [:icon si si-steam:](https://store.steampowered.com/app/3350200) | 7/10，👍第三章实在演得太好了😭。👎从第四章开始沦为套路化的 galgame，最后感觉所谓的「捞女游戏」也只不过是一个博眼球的噱头。
 
 ---
 
