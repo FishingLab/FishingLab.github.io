@@ -207,6 +207,10 @@ Date | Name | Comment
 2025/04/06 | 夺宝奇兵：古老之圈 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Indiana-Jones-and-the-Great-Circle/) | 8/10，👍第一人称+潜行玩法有没有搞头，当然有搞头！👎战斗模式单一，第一人称使得视野受限。
 2025/04/15 | 刺客信条 3 [:icon si si-steam:](https://store.steampowered.com/app/208480) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1x6oNYgEgi) | 7/10，👍再次重玩刺客信条3，还是会被前几章的反转给震撼到起鸡皮疙瘩。👎记忆中的故事还是很美好，但实际玩的时候发现还是太碎片了。
 2025/06/22 | 情感反诈模拟器（a.k.a. 捞女游戏） 达成**「真爱至上」**结局 [:icon si si-steam:](https://store.steampowered.com/app/3350200) | 7/10，👍第三章实在演得太好了😭。👎从第四章开始沦为套路化的 galgame，最后感觉所谓的「捞女游戏」也只不过是一个博眼球的噱头。
+2025/07/06 | 光与影：三十三号远征队 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Clair-Obscur-Expedition-33/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1RYjFzmEkQ) | 8/10，👍音乐、画风、玩法都非常有高级感。👎部分战斗需要花费的时间太长，地图有时也让人有点摸不着头脑。
+2025/07/27 | 人中之龙 8 [:icon si si-steam:](https://store.steampowered.com/app/2072450) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Wi421o7i9) | 7/10，👍内容很丰富。👎内容太丰富。
+2025/08/17 | 极速营救 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/3488970) | 2/10，👎看在是毛骗团队制作才购入，就不说游戏性了，这个剧本简直是💩。
+2025/09/06 | 隐形守护者 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/998940) | 8/10，👍分支很丰富，体验了汉奸、军统特务和我党地下工作者的三种人生。👎最后的结局还是有点意难平，如果如果能再扩充一点结局，搞一个完美真结局就好了。
 
 ---
 
