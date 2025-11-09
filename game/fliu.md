@@ -211,6 +211,8 @@ Date | Name | Comment
 2025/07/27 | 人中之龙 8 [:icon si si-steam:](https://store.steampowered.com/app/2072450) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Wi421o7i9) | 7/10，👍内容很丰富。👎内容太丰富。
 2025/08/17 | 极速营救 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/3488970) | 2/10，👎看在是毛骗团队制作才购入，就不说游戏性了，这个剧本简直是💩。
 2025/09/06 | 隐形守护者 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/998940) | 8/10，👍分支很丰富，体验了汉奸、军统特务和我党地下工作者的三种人生。👎最后的结局还是有点意难平，如果如果能再扩充一点结局，搞一个完美真结局就好了。
+2025/09/13 | 命运石之门：比翼恋理的爱人 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/970560) | 8/10，👍全都是糖，甜分超标。
+2025/10/18 | 凯瑟琳 Full Body [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/3792) | 9/10，👍第二次玩凯瑟琳，还是结婚的结局。相比之前玩的，多了一个角色，但似乎在我玩的这条线里对剧情并没有什么影响。
 
 ---
 
@@ -226,7 +228,6 @@ Date | Name | Comment
 塞尔达传说 王国之泪 | [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/9452/) | 在去利特村的路上
 死亡搁浅 | [:icon si si-steam:](https://store.steampowered.com/app/1850570/) | 不记得是哪一章
 超级马力欧：银河 2 | [:icon si si-wiiu:](https://www.mobygames.com/game/46697/) | 第二个星球
-人中之龙 8 | [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/27970) | 第六章
 地球防卫军 6 | [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/41786) | 任务\#23
 
 ---
