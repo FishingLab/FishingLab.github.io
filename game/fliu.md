@@ -216,6 +216,12 @@ Date | Name | Comment
 
 ---
 
+### 2026
+
+Date | Name | Comment
+:-: | :-: | ---
+2026/03/01 | 人中之龙 0 导演剪辑版 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/15017) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1nxtbzKELf) | 10/10，👍这就是最好的如龙，毋庸置疑。
+
 ## 开的坑
 
 游戏名 | 平台 | 进度
