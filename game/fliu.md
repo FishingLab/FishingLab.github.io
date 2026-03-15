@@ -220,6 +220,7 @@ Date | Name | Comment
 
 Date | Name | Comment
 :-: | :-: | ---
+2026/01/30 | 真·三国无双：起源（魏、蜀、吴三条线打完） [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Dynasty-Warriors-Origins) | 9/10，👍还是维持之前的评价，目前三条线的感受蜀线>魏线>吴线，蜀线有携民渡江的名场面，魏线有典韦、郭嘉，吴线就略逊一筹。
 2026/03/01 | 人中之龙 0 导演剪辑版 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/15017) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1nxtbzKELf) | 10/10，👍这就是最好的如龙，毋庸置疑。
 
 ## 开的坑
