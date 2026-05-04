@@ -176,7 +176,7 @@
     headings.forEach(function(h3) {
       const text = h3.textContent.trim();
       const isYear = /^\d{4}(-\d{4})?$/.test(text);
-      const isSP = /^SP$/i.test(text);
+      const isSP = /^SP(\s|$)/i.test(text);
       if (!isYear && !isSP) return;
 
       let sibling = h3.nextElementSibling;

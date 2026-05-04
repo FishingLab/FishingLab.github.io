@@ -13,8 +13,10 @@
   <!-- 年度游戏通关数量图表容器 -->
   <div id="yearly-chart-container" style="flex: 1; min-width: 300px;"></div>
   <!-- 平台分布饼图容器 -->
-  <div id="platform-chart-container" style="flex: 1; min-width: 300px;"></div>
+  <!-- <div id="platform-chart-container" style="flex: 1; min-width: 300px;"></div> -->
 </div>
+
+> Remember me before the memory of love disappears.
 
 ### 2026
 
@@ -37,7 +39,7 @@ Date | Name | Comment
 2025/07/06 | 光与影：三十三号远征队 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Clair-Obscur-Expedition-33/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1RYjFzmEkQ) | 8/10，👍音乐、画风、玩法都非常有高级感。👎部分战斗需要花费的时间太长，地图有时也让人有点摸不着头脑。
 2025/07/27 | 人中之龙 8 [:icon si si-steam:](https://store.steampowered.com/app/2072450) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Wi421o7i9) | 7/10，👍内容很丰富。👎内容太丰富。
 2025/08/17 | 极速营救 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/3488970) | 2/10，👎看在是毛骗团队制作才购入，就不说游戏性了，这个剧本简直是💩。
-2025/09/06 | 隐形守护者 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/998940) | 8/10，👍分支很丰富，体验了汉奸、军统特务和我党地下工作者的三种人生。👎最后的结局还是有点意难平，如果如果能再扩充一点结局，搞一个完美真结局就好了。
+2025/09/06 | 隐形守护者 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/998940) | 8/10，👍分支很丰富，体验了汉奸、军统特务和我党地下工作者的三种人生。👎最后的结局还是有点意难平，如果能再扩充一点结局，搞一个完美真结局就好了。
 2025/09/13 | 命运石之门：比翼恋理的爱人 **全成就** [:icon si si-steam:](https://store.steampowered.com/app/970560) | 8/10，👍全都是糖，甜分超标。
 2025/10/18 | 凯瑟琳 Full Body [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/3792) | 9/10，👍第二次玩凯瑟琳，还是结婚的结局。相比之前玩的，多了一个角色，但似乎在我玩的这条线里对剧情并没有什么影响。
 2025/12/07 | 瓦力欧制造：超赞版 [:icon si si-nintendo3ds:](https://www.mobygames.com/game/107263/) | 10/10，👍有时候玩什么游戏并不重要，重要的是这一刻陪在身边的人🫰。
@@ -86,7 +88,7 @@ Date | Name | Comment
 2023/10/15 | 生化危机 4 重制版 DLC [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/31778) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1r8411y7zQ/) | 9/10，👍玩过主线一定要玩这个DLC，这样才是完整的生化危机 4。
 2023/10/23 | Cocoon [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Cocoon/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1EC4y137RK/) | 9/10，👍好久没有玩过这么畅快的解谜游戏，神奇的体验让我感觉自己就是在解决[汉诺塔](https://zh.wikipedia.org/zh-hans/%E6%B1%89%E8%AF%BA%E5%A1%94)难题。
 2023/11/24 | 三伏 [:icon si si-steam:](https://store.steampowered.com/app/1880330/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1wu4y1V7EA/) | 7/10，👍有很多上世纪八九十年代的元素，画面构图很不错；👎故事叙述得非常凌乱，倒叙插叙混着用，加之不明不白的迷幻场景，把一个原本简单的故事搞得扑朔迷离。
-2023/11/26 | 七龙珠Z：卡卡罗特 [:icon si si-steam:](https://store.steampowered.com/app/851850/) | 6/10，👍过场CG完全1:1还原；👎稀烂的游戏性，有这功夫我为什么不去看漫画。
+2023/11/26 | 七龙珠Z：卡卡罗特 [:icon si si-steam:](https://store.steampowered.com/app/851850/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1DN411j72a/) | 6/10，👍过场CG完全1:1还原；👎稀烂的游戏性，有这功夫我为什么不去看漫画。
 2023/12/03 | 超级马力欧兄弟：惊奇 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/11026/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1RB4y1d752/) | 9/10，👍如梦如幻，联网体验非常好；👎还没有玩够就结束了。
 
 ---
@@ -160,6 +162,7 @@ Date | Name | Comment
 2020/03/14 | 生化危机 2 重制版 [:icon si si-steam:](https://store.steampowered.com/app/883710/) | 9/10，👍 我最喜欢的是里面的解谜
 2020/03/16 | 生化危机：启示录 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/211/) | 8/10，👍 这竟然是一个掌机游戏，不可思议；👎 有点晕，地图也很绕
 2020/03   | 传说之下 [:icon si si-steam:](https://store.steampowered.com/app/391540/) | 8/10，👍 这游戏从一开始就告诉你不简单；👎 最后的花打不过去，而且太过于惊悚
+2020/04/05 | 集合啦动物森友会（邀请K.K.上岛唱歌） [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/2583/) | 10/10，♥️
 2020/05/19 | 逆转裁判 1 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/2198/) | 9/10，👍 让我知道了检察官和律师的关系，虽然可能不是很准确；👎 不能修改配音，扣 1 分
 2020/06/26 | 异界锁链 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/2146/) | 7/10，👍 战斗系统好评；👎 整体画面有些太花，不是很对胃口
 2020/07/06 | 古墓丽影：暗影 [:icon si si-steam:](https://store.steampowered.com/app/750920/) | 8/10，👍 中文配音好评
@@ -228,29 +231,165 @@ Date | Name | Comment
 
 ---
 
-## 开的坑
+### SP 塞尔达传说系列
 
-游戏名 | 平台 | 进度
---- | :-: | ---
-女神异闻录 4 黄金版 | [:icon si si-playstationvita:](https://psnine.com/psngame/3761) | 大约第三个雨天
-真女神转生 V | [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/6095/) | 还是卡在Boss战
-尼尔机械纪元 | [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/8663/) | 游乐园
-塞尔达传说 旷野之息 | [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/1/) | 差最后打盖侬
-无双大蛇 2 | [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/4837) | 第五章
-塞尔达传说 王国之泪 | [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/9452/) | 在去利特村的路上
-超级马力欧：银河 2 | [:icon si si-wiiu:](https://www.mobygames.com/game/46697/) | 第二个星球
-地球防卫军 6 | [:icon si si-playstation4:{c=blue}](https://psnine.com/psngame/41786) | 任务\#23
+Name | Memory
+:-:  | ---
+塞尔达传说：旷野之息 :icon si si-nintendoswitch:{c=red} | 写硕士毕业论文的时候开的坑，有的游戏舍不得打完，旷野之息就是其中之一
+塞尔达传说：风之律动 :icon si si-wiiu: | 更为熟知的名字应该是风之杖，画风独特的塞尔达传说。前半段体验非常好，但后面寻找碎片就有点无聊了，也许有一天会重新拾起来打完吧
+
+### SP 格斗游戏系列
+
+Name | Memory
+:-:  | ---
+少年街霸3 | 第一款印象深刻的街霸
+街霸4 | 街霸4的画面算是这个系列巨大的跨越了吧，即使放现在也不过时
+拳皇2002 | 我其实玩的是风云再起的改版，很长一段时间我都把它放在U盘里（附带WinKawaks模拟器）随身携带，这样不论在哪台PC上都可以即插即玩
+拳皇13 | 从现在的角度看，拳皇13也是一代经典了。本科的时候挺爱玩的
+死或生5 | 第一次玩死或生并没有想太多，但不管是游戏的“猜拳”玩法还是角色本身，都让我深为震撼
+铁拳7 | 或许铁拳是最为自然的格斗游戏了吧，四个按键分别代表四肢。虽然大道至简，但如果深入研究门道还不少
+铁拳TT2 WiiU版 | TT2 让我感到一些街机时的氛围，是因为可以换人吗，哈哈。不过 WiiU 版的特点在于多了一些老任第一方的皮肤
+铁拳TT2 | 同上，PS 的手柄似乎操作起来更舒服
+真人快打X | 我的印象里这个终结技太过于血腥了
+
+### SP 那些特殊的游戏
+
+Name | Memory
+:-:  | ---
+突破极限脑的5分钟魔鬼锻炼 [:icon si si-nintendo3ds:](https://www.mobygames.com/game/91508/) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1qe4y1r7yo/) | ~~其实3DS是一台学习机~~。这一作的魔鬼锻炼是最良心的了吧，不止全中文配音，还有很多中文名著
+舞力全开2019 :icon si si-nintendoswitch:{c=red} | 第一次的舞力全开
+任天堂乐园 :icon si si-wiiu: | 非对称竞争游戏可以做到这种程度，恐怕后无来者了
+超级马力欧派对 :icon si si-nintendoswitch:{c=red} | 第一次的马力欧派对
+
+### SP 刺客信条系列
+
+Name | Memory
+:-:  | ---
+刺客信条：兄弟会 | 第一次的刺客信条，打开新世界的大门
+刺客信条2 | 玩的时间最久的刺客信条，严格说是在兄弟会之前的，但玩的顺序反过来了
+刺客信条：启示录 | 艾吉奥三部曲的完结篇，玩到这一部已经很舍不得了
+刺客信条3 | 我现在还能回想起当<span style="background-color: black; color: black;">海尔森</span>说出那句<span style="background-color: black; color: black;">“愿洞察之父指引我们”</span>时给我的冲击
+刺客信条3：解放 | 除了记得是女主角，然后还有换装，其他的已经记得不清楚了
+刺客信条4：黑旗 | 黑旗的故事发生在刺客信条3之前，通关的时候看到爱德华载着女儿在铺满夕阳的大海上航行，回过头来我已经是泪流满面了
+刺客信条：叛变 | 这一作加上3和4通常被称为北美三部曲，实际上这也是我玩的最后一部正传刺客信条。打完之后我也跟着谢伊一起“叛变”了这个系列
+刺客信条编年史：中国 | 算是小品级的游戏吧，就记得女主角邵云，还有背后的大佬<span style="background-color: black; color: black;">王阳明</span>
+
+### SP 无双系列
+
+Name | Memory
+:-:  | ---
+真三国无双5 | 第一次的无双 & 第一次的三国无双，整个暑假沉迷其中，显卡都被我玩冒烟了
+真三国无双6 | 当年高中下了一晚上才下好，我是真的迫不及待了
+真三国无双7 | 系统最完善的三国无双，本科时候回到宿舍就启动
+无双蛇魔Z | 第一次的无双大蛇游戏，给我的印象是：好难 😭
+无双大蛇2 | 无双大蛇 2 的刷子属性更重了，但人物真的好多好多
+战国无双4-2 | 第一次的战国无双，相比三国无双，节奏感觉更快了（不止是招式，还有音乐
+海贼无双3 | 第一次的海贼无双，可能是回忆加成，记忆中的海贼无双3要比海贼无双4好玩
+
+### SP 黄血街机系列
+
+Name | Memory
+:-:  | ---
+吞食天地2 | 第一眼看到的街机游戏，那时候还有街机厅
+恐龙快打 | 其实这是个老少咸宜的游戏，对于一些小朋友而言，可能也是我带着她们通关的第一款街机游戏
+
+### SP 大学不眠不休的日子
+
+Name | Memory
+:-:  | ---
+Fez | 第一次的独立游戏，我第一次知道这个似乎是从哪个纪录片里看到的
+Streets of Rogue | 第一次的青睐之光游戏，从刚开发的时候就购买，真是一点一点看着这个游戏逐步走向完善的
+以撒的结合 | 第一次的 Rouge 类型游戏，这个还有双人模式呢
+三国志11 | 第一次玩是在高中，后来真正玩进去是在写本科毕业论文的时候，可以说是时间杀器了
+正当防卫3 | 爆炸
+鬼泣4 | 也是高中时候接触的，但真正通关也是在本科的时候
+火影忍者：究极风暴3 | 第一次玩到究极风暴的时候，我没想到QTE可以做得这么好
+
+### SP 高中&初中玩过的游戏
+
+Name | Memory
+:-:  | ---
+忍者神龟 2007 | 第一次的育碧游戏，高中有个同学也玩过，当时就感觉找到了知音
+瓦力欧世界3 | 横冲直撞
+瓦力欧世界2 | 第一次的瓦力欧为主角的游戏，我当时还在想这哥们与马力欧的关系是什么，原来就是把 "M" 颠倒过来呀 "W"
+孤岛冒险者 | 非常复古气息的冒险游戏，被猴子偷走了包，这个迷宫走了很久很久
+牧场物语 | 下雨天还要去种地，导致第二天卧病在床（我指的是游戏里
+冒险岛GB | 玩起来其实感觉与 FC 版本差不多
+马力欧网球 | 跟我后桌同学安利了这个，结果他沉迷其中
+金庸群侠传 | 中考结束后我愣是玩了一个暑假
+电梯大战 | 其实这是个老系列了，但我第一次还是接触的 GBC 版
+钻子先生 | 记得有个同学找我推荐游戏，我首推的就是钻子先生，理由就是规则清晰简单，易上手
+超级马力欧兄弟豪华版 | 隐藏要素非常丰富，每个关卡有三个红金币，一个耀西蛋，通关后解锁日版失落的关卡，还有竞速模式，甚至有条件的可以连接 GB 打印机来打印里面的贴纸
+
+### SP 小学的记忆 I
+
+Name | Memory
+:-:  | ---
+松鼠大作战 | 我现在的印象只有刀子和叉子，话说一代和二代我也傻傻分不清了
+踢王 | 现在回想起有一点点毛骨悚然，但其实当时我挺喜欢玩的
+马戏团 | 音乐洗脑，有耐心其实可以坚持到通关的
+激龟快打 | 忍者神龟的格斗版，借的别人卡带，我一开始以为是横版过关的，打开后确实有点惊喜
+网球 | 大家都不去打球了，最乐的是去打裁判
+包青天 | 我也不知道包青天在哪，似乎是个改版的游戏
+越野机车 | 多年后在马车中玩到这个赛道，童年的记忆一下就涌上来了
+冒险岛 | 在熟悉了超级马力欧兄弟之后，第一次玩这个，碰一下敌人就死了，当时还很纳闷
+功夫 | 洗脑的音乐
+
+### SP 小学的记忆 II
+
+Name | Memory
+:-:  | ---
+大金刚 | 当初玩的时候也没有想到多年后我会在玩蕉力全开吧，算是情怀游戏了
+兔宝宝大冒险 | 三种形态的变身很酷
+淘金者 | 就记得挺难的
+蝙蝠侠 | 开头的蝙蝠侠让人印象深刻，倒是游戏里的内容记得不太清了
+沙罗曼蛇 | 我一直到二十多年后，才知道我玩的这个游戏名字叫作沙罗曼蛇，可能是我最爱的一款 FC 射击游戏了
+F1赛车 | 属于很常见的赛车游戏，主要当时也没有太多可以玩的
+魂斗罗力量 | 一想到这个游戏我就想到扛着大炮的
+魂斗罗 | 神作，这个属于家喻户晓的游戏吧
+超级魂斗罗 | 当年的魂斗罗二代，开头从飞机下来的
+赤影战士 | 俗称水上魂斗罗，实际上与魂斗罗没有关系，但操作让人感觉挺新鲜
+影子传说 | 洗脑的音乐，为数不多我可以打通关的 FC 游戏（但通关之后又开启新的轮回
+超级马力欧兄弟 | 启蒙游戏，当时都叫作超级玛丽，我一直很好奇玛丽在哪里
+荒野大镖客 | 我就记得是大晚上玩的，操作很有特点，两个键可以模拟左中右三个方向
+小蜜蜂 | 像小蜜蜂这样的游戏对我来说难度适中（有挑战但可接受），所以我可以整天都在这个游戏上
+坦克大战 | 居然可以自定义地图
 
 ---
 
-## 不计入通关列表的游戏
+## 可用图标参考
 
-+ 动森，400+小时，偶尔上岛陪小动物聊聊天
-+ 马车8，70+小时，~~等待新赛道~~
-+ Splatoon 3，100+小时，我似乎感受到了这个游戏的乐趣
-+ 任天堂明星大乱斗，200+小时，线下联机必备
-+ 欧卡 2
-+ 各类街机游戏、聚会游戏
+> 来自 [Simple Icons](https://simpleicons.org/) `v10`，通过 `:icon si si-xxx:` 使用
+
+### 平台 / 硬件
+
+|:icon si si-nintendo:|:icon si si-nintendoswitch:{c=red}|:icon si si-nintendo3ds:|:icon si si-nintendogamecube:|:icon si si-wiiu:|:icon si si-gameandwatch:|:icon si si-playstation:|:icon si si-playstation2:|:icon si si-playstation3:|:icon si si-playstationvita:|:icon si si-playstation4:{c=blue}|:icon si si-playstation5:{c=blue}|:icon si si-xbox:{c=green}|:icon si si-steam:|:icon si si-steamdeck:|:icon si si-atari:|:icon si si-sega:|:icon si si-retroarch:|:icon si si-retropie:|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Nintendo|NS|3DS|GC|WiiU|G&W|PS|PS2|PS3|PSV|PS4|PS5|Xbox|Steam|SD|Atari|Sega|RetroArch|RetroPie|
+
+### 发行商 / 开发商
+
+|:icon si si-ea:|:icon si si-ubisoft:|:icon si si-epicgames:|:icon si si-squareenix:|:icon si si-activision:|:icon si si-konami:|:icon si si-riotgames:|:icon si si-valve:|:icon si si-mojangstudios:|:icon si si-niantic:|:icon si si-sony:|:icon si si-amazongames:|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|EA|Ubisoft|Epic|SE|Activision|Konami|Riot|Valve|Mojang|Niantic|Sony|Amazon Games|
+
+### 游戏 / IP
+
+|:icon si si-pokemon:|:icon si si-minecraft:|:icon si si-leagueoflegends:|:icon si si-pubg:|:icon si si-roblox:|:icon si si-dungeonsanddragons:|:icon si si-thefinals:|
+|---|---|---|---|---|---|---|
+|Pokémon|Minecraft|LoL|PUBG|Roblox|D&D|The Finals|
+
+### 商店 / 社区
+
+|:icon si si-gogdotcom:|:icon si si-itchdotio:|:icon si si-origin:|:icon si si-battledotnet:|:icon si si-wegame:|:icon si si-gamejolt:|:icon si si-gamebanana:|:icon si si-twitch:|:icon si si-bilibili:{c=#1E90FF}|
+|---|---|---|---|---|---|---|---|---|
+|GOG|itch.io|Origin|Battle.net|WeGame|GameJolt|GameBanana|Twitch|Bilibili|
+
+### 引擎
+
+|:icon si si-unity:|:icon si si-unrealengine:|:icon si si-godotengine:|:icon si si-cryengine:|:icon si si-gamemaker:|:icon si si-monogame:|
+|---|---|---|---|---|---|
+|Unity|Unreal|Godot|CryEngine|GameMaker|MonoGame|
 
 ---
 
