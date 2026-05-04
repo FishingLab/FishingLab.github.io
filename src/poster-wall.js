@@ -61,6 +61,15 @@
       tr.poster-highlight {
         background: #fff3b0 !important;
       }
+      @media (max-width: 600px) {
+        .poster-wall {
+          gap: 8px;
+        }
+        .poster-wall .poster {
+          height: 90px;
+          border-radius: 4px;
+        }
+      }
     `;
     document.head.appendChild(style);
   }
