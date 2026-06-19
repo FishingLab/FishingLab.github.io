@@ -26,6 +26,8 @@ Date | Name | Comment
 2026/03/01 | 人中之龙 0 导演剪辑版 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/15017) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1nxtbzKELf) | 10/10，👍这就是最好的如龙，毋庸置疑。
 2026/04/12 | 咚奇刚：蕉力全开 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/15012) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1s7Hvz5EB2) | 9/10，👍比较解压，变身的音乐很带感。👎视角问题，挖坑的时候有时候不知道挖到哪了。
 2026/05/02 | 死亡搁浅：导演剪辑版 [:icon si si-steam:](https://store.steampowered.com/app/1850570) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1irdkBDEc7) | 9/10，👍从玛玛开始的每一个章节都让人深受触动。最后穿越焦油带的巧思很不错。👎最后的结局怎么这样长，看得我困死了🥱。
+2026/05/19 | 忍者龙剑传 4 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Ninja-Gaiden-4) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Caq6BVEa8) | 8/10，👍节奏很快。
+2026/05/23 | Mixtape [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/mixtape) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1vVVW6ZEWz) | 8/10，👍音乐很好听，尤其是那首 most of all~
 
 ### 2025
 
