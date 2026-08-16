@@ -2,32 +2,43 @@
 
 > Edited on: {docsify-updated}
 
-Date | Name | Note
---- | --- | ---
-2022/08 | [向日葵不开的夏天](https://book.douban.com/subject/26873412/) | 推荐给喜欢叙述性诡计的推理小说爱好者
-2022/12 | [红楼小讲](https://book.douban.com/subject/1080314/) | 推荐给红楼爱好者；如果是准备阅读红楼，最后的红楼梦导读也非常推荐
-2023/02 | [游戏结束](https://book.douban.com/subject/34983702/) | 推荐给任天堂爱好者；俄罗斯方块版权争夺战尤其精彩！
-2023/03 | [如首无作祟之物](https://book.douban.com/subject/35406149/) | 民俗配上本格推理，拿起来就放不下。
-2023/08 | [罗杰疑案](https://book.douban.com/subject/34985248/) | 叙述性诡计的开山之作，只是现在这种套路已经被用烂了。
-2023/08 | [数学简史](https://book.douban.com/subject/27170478/) | 无聊时翻一翻也挺好。
-2023/12 | [扪虱谈鬼录](https://book.douban.com/subject/27043530/) | 感受到栾保群先生对文革深深的怨念。
-2024/01 | [说魂儿](https://book.douban.com/subject/27043532/) | 相比扪虱谈鬼录要更短，前面几章讲魂与鬼的区别讲得还不错。
-2024/05 | [围城](https://book.douban.com/subject/27070488/) | 对于钱锺书的文字，我只能用“熨帖”这个词来形容。
-2024/05 | [迷宫饭](https://book.douban.com/series/56013) | 荒诞，有趣，很好的结局。
-2024/06 | [筚路维艰](https://book.douban.com/subject/26171466/) | 如何客观地来评价一段历史，这本书给了很好的答案。
-2024/06 | [七龍珠外傳 轉生成為飲茶](https://book.douban.com/subject/30184970/) | 看到饺子和雅木茶合体的那一段，直接笑喷了。
-2024/07 | [魏晋南北朝史略](https://book.douban.com/subject/27078666/) | 一页风云散，掩卷青衫湿。
-2024/08 | [头目战：超级马力欧兄弟3](https://book.douban.com/subject/30288732/) | 将个人经历和游戏历史结合的一本小书，“永不放弃，全力以赴”。
-2024/08 | [只是为了好玩](https://book.douban.com/subject/36303640/) | 生存、社交、娱乐。
-2024/11 | [链锯人 公安篇](https://bgm.tv/subject/268279) | 刀子发得猝不及防。
+日期 | 书名 | 类型 | 短评
+--- | --- | --- | ---
+2022/08 | [向日葵不开的夏天](https://book.douban.com/subject/26873412/) | 推理小说 | 推荐给喜欢叙述性诡计的推理小说爱好者。
+2022/12 | [红楼小讲](https://book.douban.com/subject/1080314/) | 学术普及 | 推荐给红楼爱好者；如果是准备阅读红楼，最后的红楼梦导读也非常推荐。
+2023/02 | [游戏结束](https://book.douban.com/subject/34983702/) | 游戏历史 | 推荐给任天堂爱好者；俄罗斯方块版权争夺战尤其精彩！
+2023/03 | [如首无作祟之物](https://book.douban.com/subject/35406149/) | 推理小说 | 民俗配上本格推理，拿起来就放不下。
+2023/08 | [罗杰疑案](https://book.douban.com/subject/34985248/) | 推理小说 | 叙述性诡计的开山之作，只是现在这种套路已经被用烂了。
+2023/08 | [数学简史](https://book.douban.com/subject/27170478/) | 学术普及 | 无聊时翻一翻也挺好。
+2023/12 | [扪虱谈鬼录](https://book.douban.com/subject/27043530/) | 学术普及 | 感受到栾保群先生对文革深深的怨念。
+2024/01 | [说魂儿](https://book.douban.com/subject/27043532/) | 学术普及 | 相比扪虱谈鬼录要更短，前面几章讲魂与鬼的区别讲得还不错。
+2024/05 | [围城](https://book.douban.com/subject/27070488/) | 文学小说 | 对于钱锺书的文字，我只能用“熨帖”这个词来形容。
+2024/05 | [迷宫饭](https://book.douban.com/series/56013) | 搞笑漫画 | 荒诞，有趣，很好的结局。
+2024/06 | [筚路维艰](https://book.douban.com/subject/26171466/) | 历史普及 | 如何客观地来评价一段历史，这本书给了很好的答案。
+2024/06 | [七龍珠外傳 轉生成為飲茶](https://book.douban.com/subject/30184970/) | 搞笑漫画 | 看到饺子和雅木茶合体的那一段，直接笑喷了。
+2024/07 | [魏晋南北朝史略](https://book.douban.com/subject/27078666/) | 历史普及 | 一页风云散，掩卷青衫湿。
+2024/08 | [头目战：超级马力欧兄弟3](https://book.douban.com/subject/30288732/) | 游戏历史 | 将个人经历和游戏历史结合的一本小书，“永不放弃，全力以赴”。
+2024/08 | [只是为了好玩](https://book.douban.com/subject/36303640/) | 人物传记 | 生存、社交、娱乐。
+2024/11 | [链锯人 公安篇](https://bgm.tv/subject/268279) | 热血漫画 | 刀子发得猝不及防。
+2025/08 | [神仙意境](https://book.douban.com/subject/35902121/) | 学术普及 | 虽然封神演义的小说很小就读过了，但本人一直对其没有太大兴趣。倒是这本书感觉写得比小说还要精彩。
+2025/09 | [红楼疑案](https://book.douban.com/subject/35606900/) | 学术普及 | 红楼的探佚研究，很多有意思的观点，可谓百花齐放。（可惜的是部分探佚成果被人窃取了，并形成了癸酉本这样的怪胎。
+2025/11 | [时间的女儿](https://book.douban.com/subject/36831765/) | 推理小说 | 从解构历史的角度，其实挺有意思的，让我突然有兴趣去了解一下查理三世。
+2025/12 | [时生](https://book.douban.com/subject/26387514/) | 推理小说 | 有种解忧杂货店的感觉，其实挺温情的。
+2025/12 | [秦崩](https://book.douban.com/subject/26368070/) | 历史普及 | 第一次看这种介于历史和小说之间的叙述，有种奇妙的感觉。不过比较有意思的是其中的一些独特的观点，比如楚与秦的含义。
+2026/02 | [新参者](https://book.douban.com/subject/26639966/) | 推理小说 | 东野圭吾的加贺系列，之前只看过「恶意」，这本刚好就是其反面。
+2026/04 | [夏日重现](https://bgm.tv/subject/228444) | 智斗漫画 | 轮回类型的漫画，有种「命运石之门」的感觉，但更多让我感觉是像在玩游戏，不断读档重来。
+2026/07 | [杀戮都市](https://bgm.tv/subject/35906) | 热血漫画 | 第二次从头把 GANTZ 完整看了一遍，真是痛快。就是最后的故事走向有点离谱了，感觉奥浩哉是编不下去了。一堆的伏笔也没有回收。
+2026/08 | [楚亡](https://book.douban.com/subject/26368072/) | 历史普及 | 想起来我读这本书的时候，差不多就是项羽败走垓下之际，时也，命也。
 
 ## 在读中
 
 书名 | 进度
 --- | ---
-[打开](https://book.douban.com/subject/30441530/) | 7/10，因为这本书去看了纯粹理性批判，发现完全看不懂
-[火凤燎原](https://book.douban.com/series/13190) | 第 78 卷，荀彧，竟然是你？！
-[赌博堕天录](https://book.douban.com/series/34762) | 第 455 话，24 亿脱出篇
-[自己送上門的鴨子有毒: 加茂教授的人性經濟學課程](https://book.douban.com/subject/36291470/) | 第一卷，假装自己在学习经济学
-[PLUTO冥王](https://book.douban.com/subject/36584896/) | 第六卷，期待后续故事的发展
-[超自然武装当哒当](https://bgm.tv/subject/332250) | 第十九卷，脑洞大开
+[火凤燎原](https://book.douban.com/series/13190) | 第 81 卷
+[赌博堕天录](https://book.douban.com/series/34762) | 24 亿脱出篇
+[自己送上門的鴨子有毒: 加茂教授的人性經濟學課程](https://book.douban.com/subject/36291470/) | 第 2 卷
+[PLUTO冥王](https://book.douban.com/subject/36584896/) | 第 6 卷
+[超自然武装当哒当](https://bgm.tv/subject/332250) | 第 22 卷
+[天·天和街浪子](https://bgm.tv/subject/39874) | 第 7 卷
+[超超超超超喜欢你的100个女朋友](https://bgm.tv/subject/296466) | 第 7 卷
+[一勝千金](https://bgm.tv/subject/433727) | 第 2 卷

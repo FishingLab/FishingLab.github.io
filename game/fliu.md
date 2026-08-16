@@ -28,6 +28,8 @@ Date | Name | Comment
 2026/05/02 | 死亡搁浅：导演剪辑版 [:icon si si-steam:](https://store.steampowered.com/app/1850570) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1irdkBDEc7) | 9/10，👍从玛玛开始的每一个章节都让人深受触动。最后穿越焦油带的巧思很不错。👎最后的结局怎么这样长，看得我困死了🥱。
 2026/05/19 | 忍者龙剑传 4 [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/Ninja-Gaiden-4) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1Caq6BVEa8) | 8/10，👍节奏很快。
 2026/05/23 | Mixtape [:icon si si-xbox:{c=green}](https://www.trueachievements.com/game/mixtape) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1vVVW6ZEWz) | 8/10，👍音乐很好听，尤其是那首 most of all~
+2026/07/03 | 生化危机 5 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/3100) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1y9Mc6eEj8) | 8/10，👍视角和操作都是继承了上一作，这作特点就是双人了吧。
+2026/07/30 | 生化危机 6 [:icon si si-nintendoswitch:{c=red}](https://www.switchscores.com/games/3101) [:icon si si-bilibili:{c=#1E90FF}](https://www.bilibili.com/video/BV1HV3b6jEbZ) | 9/10，👍量大管饱，相比系列的前作，操作手感大大改善，怪物数量又多，而且联网的话还有真人来扮演你的队友。如果硬要挑什么毛病，可能就是不太恐怖吧。
 
 ### 2025
 
